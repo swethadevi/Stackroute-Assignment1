@@ -1,2 +1,3 @@
 # day1_Assignment1
-Day one  Assignment Done!
+This assignment comprises about the Intro to Web HTML Basics.
+The assignment1.html includes the tags like <blockquote>,<em>,<div>,<Center>,<Style>,<Headings>,List tags, Parent-child relationships,Classes and ID's,  
